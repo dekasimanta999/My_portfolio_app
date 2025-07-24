@@ -1,5 +1,4 @@
-# flutter_application_1
-
+# My Portfolio App
 A new Flutter project.
 
 ## Getting Started
