@@ -31,13 +31,3 @@ It is built with **Flutter** and supports both light and dark modes for better u
 - **Version Control:** Git & GitHub
 
 ---
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/yourusername/your_repo_name.git
-cd your_repo_name
-flutter pub get
-flutter run
