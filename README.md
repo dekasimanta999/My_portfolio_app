@@ -1,15 +1,43 @@
-# My Portfolio App
-A new Flutter project.
+# 💼 My Portfolio App
 
-## Getting Started
+A beautifully designed **Flutter portfolio application** showcasing my skills, projects, and personal details. Built to reflect my profile as a developer 🚀.
 
-This project is a starting point for a Flutter application.
+![Flutter](https://img.shields.io/badge/Flutter-Portfolio-blue?logo=flutter)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 App Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app highlights:
+- 🧑‍💻 Personal Introduction
+- 💡 My Technical Skills
+- 📂 Project Showcase
+- 🌐 Social Media Links
+- 📞 Contact Section
+
+It is built with **Flutter** and supports both light and dark modes for better user experience.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** Provider
+- **Design:** Material UI
+- **IDE:** VS Code
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/yourusername/your_repo_name.git
+cd your_repo_name
+flutter pub get
+flutter run
